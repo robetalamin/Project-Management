@@ -6,3 +6,4 @@ List of Project:
 3. Agile Implementation - Project Manager
 4. New Product Development - Product Manager
 5. Manufacturing App - Product Manager
+6. Blockchain based Freelancing Platform - Product Manager
